@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Front Page Blurbs
 	Description: Front-page-plugin för ACF-blurbar på sajtens front-page
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland
