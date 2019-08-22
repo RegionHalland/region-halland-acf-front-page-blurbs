@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-front-page-blurbs",
+    "description": "Front-page-plugin för ACF-puffar på sajtens front-page",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
